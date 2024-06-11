@@ -6,6 +6,7 @@ import org.apache.logging.log4j.LogManager;
 import net.pedro.multicube.init.MulticubeModTabs;
 import net.pedro.multicube.init.MulticubeModSounds;
 import net.pedro.multicube.init.MulticubeModItems;
+import net.pedro.multicube.init.MulticubeModEntities;
 import net.pedro.multicube.init.MulticubeModBlocks;
 
 import net.minecraftforge.network.simple.SimpleChannel;
@@ -45,6 +46,7 @@ public class MulticubeMod {
 		MulticubeModBlocks.REGISTRY.register(bus);
 
 		MulticubeModItems.REGISTRY.register(bus);
+		MulticubeModEntities.REGISTRY.register(bus);
 
 		MulticubeModTabs.REGISTRY.register(bus);
 

@@ -68,6 +68,22 @@
           "src/main/java/net/pedro/multicube/item/PictestItem.java"
         ]
       }
+    },
+    {
+      "name": "Enttest",
+      "type": "livingentity",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enttest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/forge/biome_modifier/enttest_biome_modifier.json",
+          "src/main/java/net/pedro/multicube/entity/EnttestEntity.java",
+          "src/main/java/net/pedro/multicube/client/renderer/EnttestRenderer.java",
+          "src/main/resources/assets/multicube/models/item/enttest_spawn_egg.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -90,6 +106,8 @@
     "en_us": {
       "item.multicube.cdtest": "Cdtest",
       "subtitles.crabe-rave": "crabe rave",
+      "item.multicube.enttest_spawn_egg": "Enttest Spawn Egg",
+      "entity.multicube.enttest": "Enttest",
       "FRACAIS": "",
       "block.multicube.test": "Test",
       "item.multicube.cdtest.desc": "dd",
