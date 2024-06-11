@@ -52,6 +52,7 @@ public class MulticubeModItems {
 	public static final RegistryObject<Item> D_ARMOR_CHESTPLATE = REGISTRY.register("d_armor_chestplate", () -> new DArmorItem.Chestplate());
 	public static final RegistryObject<Item> D_ARMOR_LEGGINGS = REGISTRY.register("d_armor_leggings", () -> new DArmorItem.Leggings());
 	public static final RegistryObject<Item> D_ARMOR_BOOTS = REGISTRY.register("d_armor_boots", () -> new DArmorItem.Boots());
+	public static final RegistryObject<Item> WEBEC = block(MulticubeModBlocks.WEBEC);
 
 	// Start of user code block custom items
 	// End of user code block custom items

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multicube:block/boistest_planks",
+    "up": "multicube:block/d_ore_block",
+    "north": "multicube:block/d_ore_block",
+    "east": "multicube:block/boistest_log_top",
+    "south": "multicube:block/boistest_leaves",
+    "west": "multicube:block/boistest_log_side",
+    "particle": "multicube:block/boistest_planks"
+  },
+  "render_type": "solid"
+}

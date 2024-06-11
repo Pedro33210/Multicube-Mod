@@ -690,6 +690,23 @@
           "src/main/resources/data/multicube/recipes/d_armor_boots_recipe.json"
         ]
       }
+    },
+    {
+      "name": "WEBEC",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "webec",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/models/item/webec.json",
+          "src/main/resources/assets/multicube/models/block/webec.json",
+          "src/main/java/net/pedro/multicube/block/WEBECBlock.java",
+          "src/main/resources/data/multicube/loot_tables/blocks/webec.json",
+          "src/main/resources/assets/multicube/blockstates/webec.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -763,6 +780,7 @@
       "item.multicube.d_pickaxe": "D Pickaxe",
       "block.multicube.d_ore": "D Ore",
       "item.multicube.d_sword": "D Sword",
+      "block.multicube.webec": "WEBEC",
       "block.multicube.boistest_fence": "Boistest Fence",
       "item.multicube.d_axe": "D Axe",
       "block.multicube.boistest_log": "Boistest Log",

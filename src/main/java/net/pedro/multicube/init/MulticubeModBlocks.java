@@ -44,6 +44,7 @@ public class MulticubeModBlocks {
 	public static final RegistryObject<Block> BOISTEST_BUTTON = REGISTRY.register("boistest_button", () -> new BoistestButtonBlock());
 	public static final RegistryObject<Block> D_ORE = REGISTRY.register("d_ore", () -> new DOreBlock());
 	public static final RegistryObject<Block> D_BLOCK = REGISTRY.register("d_block", () -> new DBlockBlock());
+	public static final RegistryObject<Block> WEBEC = REGISTRY.register("webec", () -> new WEBECBlock());
 
 	// Start of user code block custom blocks
 	// End of user code block custom blocks

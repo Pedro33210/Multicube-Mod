@@ -25,6 +25,7 @@ public class MulticubeModTabs {
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.multicube.onglet_test")).icon(() -> new ItemStack(MulticubeModBlocks.TEST.get())).displayItems((parameters, tabData) -> {
 				tabData.accept(MulticubeModBlocks.TEST.get().asItem());
 				tabData.accept(MulticubeModItems.CDTEST.get());
+				tabData.accept(MulticubeModBlocks.WEBEC.get().asItem());
 			}).withSearchBar().build());
 
 	@SubscribeEvent
