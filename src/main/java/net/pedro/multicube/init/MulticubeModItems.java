@@ -4,6 +4,7 @@
  */
 package net.pedro.multicube.init;
 
+import net.pedro.multicube.item.PictestItem;
 import net.pedro.multicube.item.CdtestItem;
 import net.pedro.multicube.MulticubeMod;
 
@@ -19,6 +20,7 @@ public class MulticubeModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, MulticubeMod.MODID);
 	public static final RegistryObject<Item> TEST = block(MulticubeModBlocks.TEST);
 	public static final RegistryObject<Item> CDTEST = REGISTRY.register("cdtest", () -> new CdtestItem());
+	public static final RegistryObject<Item> PICTEST = REGISTRY.register("pictest", () -> new PictestItem());
 
 	// Start of user code block custom items
 	// End of user code block custom items

@@ -41,6 +41,33 @@
           "src/main/java/net/pedro/multicube/item/CdtestItem.java"
         ]
       }
+    },
+    {
+      "name": "Overtest",
+      "type": "overlay",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "overtest",
+      "metadata": {
+        "files": [
+          "src/main/java/net/pedro/multicube/client/screens/OvertestOverlay.java"
+        ]
+      }
+    },
+    {
+      "name": "Pictest",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pictest",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/models/item/pictest.json",
+          "src/main/java/net/pedro/multicube/item/PictestItem.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -66,7 +93,9 @@
       "FRACAIS": "",
       "block.multicube.test": "Test",
       "item.multicube.cdtest.desc": "dd",
-      "item_group.multicube.onglet_test": "Test"
+      "gui.multicube.overtest.label_xebec_le_pd": "Xebec le PD",
+      "item_group.multicube.onglet_test": "Test",
+      "item.multicube.pictest": "Pictest"
     }
   },
   "foldersRoot": {

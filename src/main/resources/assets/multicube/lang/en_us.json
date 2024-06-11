@@ -4,5 +4,7 @@
   "FRACAIS": "",
   "block.multicube.test": "Test",
   "item.multicube.cdtest.desc": "dd",
-  "item_group.multicube.onglet_test": "Test"
+  "gui.multicube.overtest.label_xebec_le_pd": "Xebec le PD",
+  "item_group.multicube.onglet_test": "Test",
+  "item.multicube.pictest": "Pictest"
 }
