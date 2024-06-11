@@ -88,6 +88,7 @@
     {
       "name": "BoistestWood",
       "type": "block",
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_wood",
@@ -104,6 +105,7 @@
     {
       "name": "BoistestLog",
       "type": "block",
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_log",
@@ -120,6 +122,7 @@
     {
       "name": "BoistestPlanks",
       "type": "block",
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_planks",
@@ -136,6 +139,7 @@
     {
       "name": "BoistestLeaves",
       "type": "block",
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_leaves",
@@ -152,6 +156,7 @@
     {
       "name": "BoistestStairs",
       "type": "block",
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_stairs",
@@ -170,6 +175,7 @@
     {
       "name": "BoistestSlab",
       "type": "block",
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_slab",
@@ -188,6 +194,7 @@
     {
       "name": "BoistestFence",
       "type": "block",
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_fence",
@@ -206,6 +213,7 @@
     {
       "name": "BoistestFenceGate",
       "type": "block",
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_fence_gate",
@@ -225,6 +233,7 @@
     {
       "name": "BoistestPressurePlate",
       "type": "block",
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_pressure_plate",
@@ -242,6 +251,7 @@
     {
       "name": "BoistestButton",
       "type": "block",
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_button",
@@ -260,6 +270,7 @@
     {
       "name": "BoistestWoodRecipe",
       "type": "recipe",
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_wood_recipe",
@@ -272,6 +283,7 @@
     {
       "name": "BoistestPlanksLogRecipe",
       "type": "recipe",
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_planks_log_recipe",
@@ -284,6 +296,7 @@
     {
       "name": "BoistestPlanksWoodRecipe",
       "type": "recipe",
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_planks_wood_recipe",
@@ -296,6 +309,7 @@
     {
       "name": "BoistestStairsRecipe",
       "type": "recipe",
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_stairs_recipe",
@@ -308,6 +322,7 @@
     {
       "name": "BoistestSlabRecipe",
       "type": "recipe",
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_slab_recipe",
@@ -320,6 +335,7 @@
     {
       "name": "BoistestFenceRecipe",
       "type": "recipe",
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_fence_recipe",
@@ -332,6 +348,7 @@
     {
       "name": "BoistestFenceGateRecipe",
       "type": "recipe",
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_fence_gate_recipe",
@@ -344,6 +361,7 @@
     {
       "name": "BoistestPressurePlateRecipe",
       "type": "recipe",
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_pressure_plate_recipe",
@@ -356,6 +374,7 @@
     {
       "name": "BoistestButtonRecipe",
       "type": "recipe",
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_button_recipe",
@@ -368,6 +387,7 @@
     {
       "name": "BoistestStickRecipe",
       "type": "recipe",
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "boistest_stick_recipe",
@@ -380,6 +400,7 @@
     {
       "name": "DDust",
       "type": "item",
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_dust",
@@ -393,6 +414,7 @@
     {
       "name": "DOre",
       "type": "block",
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_ore",
@@ -412,6 +434,7 @@
     {
       "name": "DBlock",
       "type": "block",
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_block",
@@ -428,6 +451,7 @@
     {
       "name": "DOreBlockRecipe",
       "type": "recipe",
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_ore_block_recipe",
@@ -440,6 +464,7 @@
     {
       "name": "DBlockOreRecipe",
       "type": "recipe",
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_block_ore_recipe",
@@ -452,6 +477,7 @@
     {
       "name": "DOreSmelting",
       "type": "recipe",
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_ore_smelting",
@@ -464,6 +490,7 @@
     {
       "name": "DPickaxe",
       "type": "tool",
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_pickaxe",
@@ -477,6 +504,7 @@
     {
       "name": "DAxe",
       "type": "tool",
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_axe",
@@ -490,6 +518,7 @@
     {
       "name": "DSword",
       "type": "tool",
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_sword",
@@ -503,6 +532,7 @@
     {
       "name": "DShovel",
       "type": "tool",
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_shovel",
@@ -516,6 +546,7 @@
     {
       "name": "DHoe",
       "type": "tool",
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_hoe",
@@ -529,6 +560,7 @@
     {
       "name": "DPickaxeRecipe",
       "type": "recipe",
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_pickaxe_recipe",
@@ -541,6 +573,7 @@
     {
       "name": "DAxeRecipe",
       "type": "recipe",
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_axe_recipe",
@@ -553,6 +586,7 @@
     {
       "name": "DSwordRecipe",
       "type": "recipe",
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_sword_recipe",
@@ -565,6 +599,7 @@
     {
       "name": "DShovelRecipe",
       "type": "recipe",
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_shovel_recipe",
@@ -577,6 +612,7 @@
     {
       "name": "DHoeRecipe",
       "type": "recipe",
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_hoe_recipe",
@@ -589,6 +625,7 @@
     {
       "name": "DArmor",
       "type": "armor",
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_armor",
@@ -605,6 +642,7 @@
     {
       "name": "DArmorHelmetRecipe",
       "type": "recipe",
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_armor_helmet_recipe",
@@ -617,6 +655,7 @@
     {
       "name": "DArmorChestplateRecipe",
       "type": "recipe",
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_armor_chestplate_recipe",
@@ -629,6 +668,7 @@
     {
       "name": "DArmorLeggingsRecipe",
       "type": "recipe",
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_armor_leggings_recipe",
@@ -641,6 +681,7 @@
     {
       "name": "DArmorBootsRecipe",
       "type": "recipe",
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "d_armor_boots_recipe",
@@ -737,21 +778,18 @@
     "modName": "Multicube",
     "version": "1.0.0",
     "author": "Pedro, Xebec",
+    "websiteURL": "https://mcreator.net",
     "license": "Not specified",
     "serverSideOnly": false,
-    "requiredMods": [
-      "gekolib"
-    ],
-    "dependencies": [
-      "gekolib"
-    ],
-    "dependants": [
-      "gekolib"
-    ],
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
     "mcreatorDependencies": [
-      "mcreator_link"
+      "mcreator_link",
+      "geckolib"
     ],
     "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.pedro.multicube"
   },
   "mcreatorVersion": 202400118518

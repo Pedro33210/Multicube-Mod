@@ -21,12 +21,6 @@ authors="Pedro, Xebec"
     side="BOTH"
 
 [[dependencies.multicube]]
-    modId="gekolib"
-    mandatory=true
-    versionRange="[0,)"
-    ordering="NONE"
-    side="BOTH"
-[[dependencies.multicube]]
     modId="mcreator_link"
     mandatory=true
     versionRange="[0,)"
@@ -34,15 +28,9 @@ authors="Pedro, Xebec"
     side="BOTH"
 
 [[dependencies.multicube]]
-    modId="gekolib"
+    modId="geckolib"
     mandatory=false
     versionRange="[0,)"
     ordering="NONE"
     side="BOTH"
 
-[[dependencies.multicube]]
-    modId="gekolib"
-    mandatory=false
-    versionRange="[0,)"
-    ordering="NONE"
-    side="BOTH"
