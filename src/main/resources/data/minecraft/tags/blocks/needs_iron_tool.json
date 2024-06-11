@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "multicube:d_block",
+    "multicube:d_ore"
+  ]
+}

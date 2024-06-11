@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multicube:block/boistest_log_top",
+    "up": "multicube:block/boistest_log_top",
+    "north": "multicube:block/boistest_log_side",
+    "east": "multicube:block/boistest_log_side",
+    "south": "multicube:block/boistest_log_side",
+    "west": "multicube:block/boistest_log_side",
+    "particle": "multicube:block/boistest_log_top"
+  },
+  "render_type": "solid"
+}

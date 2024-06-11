@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "multicube:d_block"
+    }
+  ],
+  "result": {
+    "item": "multicube:d_dust",
+    "count": 9
+  }
+}

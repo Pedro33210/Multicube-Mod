@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_stairs",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "multicube:boistest_planks"
+    }
+  },
+  "result": {
+    "item": "multicube:boistest_stairs",
+    "count": 4
+  }
+}

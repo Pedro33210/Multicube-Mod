@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "multicube:block/boistest_leaves",
+    "particle": "multicube:block/boistest_leaves"
+  }
+}

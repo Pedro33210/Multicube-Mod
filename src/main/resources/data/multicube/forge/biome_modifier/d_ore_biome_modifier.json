@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#is_overworld",
+  "features": "multicube:d_ore",
+  "step": "underground_ores"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "multicube:block/boistest_slab"
+    },
+    "type=top": {
+      "model": "multicube:block/boistest_slab_top"
+    },
+    "type=double": {
+      "model": "multicube:block/boistest_slab_full"
+    }
+  }
+}

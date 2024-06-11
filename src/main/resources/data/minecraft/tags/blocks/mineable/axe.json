@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "multicube:boistest_planks",
+    "multicube:boistest_log",
+    "multicube:boistest_wood"
+  ]
+}

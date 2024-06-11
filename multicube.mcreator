@@ -84,6 +84,571 @@
           "src/main/resources/assets/multicube/models/item/enttest_spawn_egg.json"
         ]
       }
+    },
+    {
+      "name": "BoistestWood",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/models/item/boistest_wood.json",
+          "src/main/resources/assets/multicube/blockstates/boistest_wood.json",
+          "src/main/java/net/pedro/multicube/block/BoistestWoodBlock.java",
+          "src/main/resources/data/multicube/loot_tables/blocks/boistest_wood.json",
+          "src/main/resources/assets/multicube/models/block/boistest_wood.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestLog",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/models/block/boistest_log.json",
+          "src/main/java/net/pedro/multicube/block/BoistestLogBlock.java",
+          "src/main/resources/assets/multicube/models/item/boistest_log.json",
+          "src/main/resources/data/multicube/loot_tables/blocks/boistest_log.json",
+          "src/main/resources/assets/multicube/blockstates/boistest_log.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestPlanks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/blockstates/boistest_planks.json",
+          "src/main/resources/assets/multicube/models/item/boistest_planks.json",
+          "src/main/resources/assets/multicube/models/block/boistest_planks.json",
+          "src/main/resources/data/multicube/loot_tables/blocks/boistest_planks.json",
+          "src/main/java/net/pedro/multicube/block/BoistestPlanksBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "BoistestLeaves",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/models/item/boistest_leaves.json",
+          "src/main/resources/data/multicube/loot_tables/blocks/boistest_leaves.json",
+          "src/main/java/net/pedro/multicube/block/BoistestLeavesBlock.java",
+          "src/main/resources/assets/multicube/blockstates/boistest_leaves.json",
+          "src/main/resources/assets/multicube/models/block/boistest_leaves.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/loot_tables/blocks/boistest_stairs.json",
+          "src/main/resources/assets/multicube/models/item/boistest_stairs.json",
+          "src/main/resources/assets/multicube/models/block/boistest_stairs_inner.json",
+          "src/main/java/net/pedro/multicube/block/BoistestStairsBlock.java",
+          "src/main/resources/assets/multicube/models/block/boistest_stairs_outer.json",
+          "src/main/resources/assets/multicube/blockstates/boistest_stairs.json",
+          "src/main/resources/assets/multicube/models/block/boistest_stairs.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/models/block/boistest_slab.json",
+          "src/main/resources/data/multicube/loot_tables/blocks/boistest_slab.json",
+          "src/main/resources/assets/multicube/models/block/boistest_slab_full.json",
+          "src/main/java/net/pedro/multicube/block/BoistestSlabBlock.java",
+          "src/main/resources/assets/multicube/blockstates/boistest_slab.json",
+          "src/main/resources/assets/multicube/models/block/boistest_slab_top.json",
+          "src/main/resources/assets/multicube/models/item/boistest_slab.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestFence",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/blockstates/boistest_fence.json",
+          "src/main/java/net/pedro/multicube/block/BoistestFenceBlock.java",
+          "src/main/resources/assets/multicube/models/block/boistest_fence_post.json",
+          "src/main/resources/data/multicube/loot_tables/blocks/boistest_fence.json",
+          "src/main/resources/assets/multicube/models/item/boistest_fence.json",
+          "src/main/resources/assets/multicube/models/block/boistest_fence.json",
+          "src/main/resources/assets/multicube/models/block/boistest_fence_inventory.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestFenceGate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/models/block/boistest_fence_gate_wall_open.json",
+          "src/main/resources/assets/multicube/models/item/boistest_fence_gate.json",
+          "src/main/resources/assets/multicube/blockstates/boistest_fence_gate.json",
+          "src/main/resources/assets/multicube/models/block/boistest_fence_gate.json",
+          "src/main/resources/assets/multicube/models/block/boistest_fence_gate_wall.json",
+          "src/main/java/net/pedro/multicube/block/BoistestFenceGateBlock.java",
+          "src/main/resources/assets/multicube/models/block/boistest_fence_gate_open.json",
+          "src/main/resources/data/multicube/loot_tables/blocks/boistest_fence_gate.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestPressurePlate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/models/item/boistest_pressure_plate.json",
+          "src/main/java/net/pedro/multicube/block/BoistestPressurePlateBlock.java",
+          "src/main/resources/assets/multicube/models/block/boistest_pressure_plate_down.json",
+          "src/main/resources/assets/multicube/blockstates/boistest_pressure_plate.json",
+          "src/main/resources/data/multicube/loot_tables/blocks/boistest_pressure_plate.json",
+          "src/main/resources/assets/multicube/models/block/boistest_pressure_plate.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestButton",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/blockstates/boistest_button.json",
+          "src/main/resources/assets/multicube/models/block/boistest_button.json",
+          "src/main/java/net/pedro/multicube/block/BoistestButtonBlock.java",
+          "src/main/resources/data/multicube/loot_tables/blocks/boistest_button.json",
+          "src/main/resources/assets/multicube/models/block/boistest_button_pressed.json",
+          "src/main/resources/assets/multicube/models/item/boistest_button.json",
+          "src/main/resources/assets/multicube/models/block/boistest_button_inventory.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestWoodRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/boistest_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestPlanksLogRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_planks_log_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/boistest_planks_log_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestPlanksWoodRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_planks_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/boistest_planks_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestStairsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/boistest_stairs_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestSlabRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/boistest_slab_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestFenceRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/boistest_fence_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestFenceGateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/boistest_fence_gate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestPressurePlateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/boistest_pressure_plate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestButtonRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/boistest_button_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BoistestStickRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boistest_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/boistest_stick_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DDust",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_dust",
+      "metadata": {
+        "files": [
+          "src/main/java/net/pedro/multicube/item/DDustItem.java",
+          "src/main/resources/assets/multicube/models/item/d_dust.json"
+        ]
+      }
+    },
+    {
+      "name": "DOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/worldgen/configured_feature/d_ore.json",
+          "src/main/resources/assets/multicube/blockstates/d_ore.json",
+          "src/main/resources/data/multicube/loot_tables/blocks/d_ore.json",
+          "src/main/java/net/pedro/multicube/block/DOreBlock.java",
+          "src/main/resources/assets/multicube/models/block/d_ore.json",
+          "src/main/resources/data/multicube/forge/biome_modifier/d_ore_biome_modifier.json",
+          "src/main/resources/data/multicube/worldgen/placed_feature/d_ore.json",
+          "src/main/resources/assets/multicube/models/item/d_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/models/item/d_block.json",
+          "src/main/resources/assets/multicube/models/block/d_block.json",
+          "src/main/resources/assets/multicube/blockstates/d_block.json",
+          "src/main/resources/data/multicube/loot_tables/blocks/d_block.json",
+          "src/main/java/net/pedro/multicube/block/DBlockBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "DOreBlockRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_ore_block_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/d_ore_block_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DBlockOreRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_block_ore_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/d_block_ore_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DOreSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_ore_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/d_ore_smelting.json"
+        ]
+      }
+    },
+    {
+      "name": "DPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/pedro/multicube/item/DPickaxeItem.java",
+          "src/main/resources/assets/multicube/models/item/d_pickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "DAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/pedro/multicube/item/DAxeItem.java",
+          "src/main/resources/assets/multicube/models/item/d_axe.json"
+        ]
+      }
+    },
+    {
+      "name": "DSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/models/item/d_sword.json",
+          "src/main/java/net/pedro/multicube/item/DSwordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "DShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/pedro/multicube/item/DShovelItem.java",
+          "src/main/resources/assets/multicube/models/item/d_shovel.json"
+        ]
+      }
+    },
+    {
+      "name": "DHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/pedro/multicube/item/DHoeItem.java",
+          "src/main/resources/assets/multicube/models/item/d_hoe.json"
+        ]
+      }
+    },
+    {
+      "name": "DPickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/d_pickaxe_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DAxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/d_axe_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DSwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/d_sword_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DShovelRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/d_shovel_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DHoeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/d_hoe_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/models/item/d_armor_helmet.json",
+          "src/main/resources/assets/multicube/models/item/d_armor_leggings.json",
+          "src/main/resources/assets/multicube/models/item/d_armor_boots.json",
+          "src/main/resources/assets/multicube/models/item/d_armor_chestplate.json",
+          "src/main/java/net/pedro/multicube/item/DArmorItem.java"
+        ]
+      }
+    },
+    {
+      "name": "DArmorHelmetRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_armor_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/d_armor_helmet_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DArmorChestplateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_armor_chestplate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/d_armor_chestplate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DArmorLeggingsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_armor_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/d_armor_leggings_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DArmorBootsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_armor_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/multicube/recipes/d_armor_boots_recipe.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -98,22 +663,69 @@
     }
   ],
   "tag_elements": {
+    "BLOCKS:minecraft:fences": [
+      "~CUSTOM:BoistestFence"
+    ],
+    "BLOCKS:minecraft:leaves": [
+      "~CUSTOM:BoistestLeaves"
+    ],
+    "BLOCKS:minecraft:slabs": [
+      "~CUSTOM:BoistestSlab"
+    ],
+    "BLOCKS:minecraft:needs_iron_tool": [
+      "~CUSTOM:DBlock",
+      "~CUSTOM:DOre"
+    ],
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:DBlock",
+      "~CUSTOM:DOre"
+    ],
+    "BLOCKS:minecraft:mineable/axe": [
+      "~CUSTOM:BoistestPlanks",
+      "~CUSTOM:BoistestLog",
+      "~CUSTOM:BoistestWood"
+    ],
     "ITEMS:minecraft:music_discs": [
       "~CUSTOM:Cdtest"
+    ],
+    "BLOCKS:minecraft:stairs": [
+      "~CUSTOM:BoistestStairs"
     ]
   },
   "language_map": {
     "en_us": {
       "item.multicube.cdtest": "Cdtest",
+      "item.multicube.d_armor_chestplate": "D Chestplate",
+      "block.multicube.boistest_leaves": "Boistest Leaves",
+      "gui.multicube.overtest.label_xebec_le_pd": "Xebec le PD",
+      "block.multicube.boistest_button": "Boistest Button",
+      "item.multicube.d_armor_leggings": "D Leggings",
+      "block.multicube.boistest_slab": "Boistest Slab",
+      "block.multicube.boistest_planks": "Boistest Planks",
+      "block.multicube.test": "Test",
+      "block.multicube.boistest_fence_gate": "Boistest Fence Gate",
+      "item.multicube.d_armor_helmet": "D Helmet",
+      "item.multicube.d_armor_boots": "D Boots",
+      "item.multicube.cdtest.desc": "dd",
+      "block.multicube.boistest_wood": "Boistest Wood",
+      "block.multicube.boistest_stairs": "Boistest Stairs",
       "subtitles.crabe-rave": "crabe rave",
       "item.multicube.enttest_spawn_egg": "Enttest Spawn Egg",
+      "item.multicube.d_shovel": "D Shovel",
       "entity.multicube.enttest": "Enttest",
+      "block.multicube.boistest_pressure_plate": "Boistest Pressure Plate",
+      "item.multicube.d_hoe": "D Hoe",
       "FRACAIS": "",
-      "block.multicube.test": "Test",
-      "item.multicube.cdtest.desc": "dd",
-      "gui.multicube.overtest.label_xebec_le_pd": "Xebec le PD",
+      "block.multicube.d_block": "Block of D",
+      "item.multicube.pictest": "Pictest",
       "item_group.multicube.onglet_test": "Test",
-      "item.multicube.pictest": "Pictest"
+      "item.multicube.d_pickaxe": "D Pickaxe",
+      "block.multicube.d_ore": "D Ore",
+      "item.multicube.d_sword": "D Sword",
+      "block.multicube.boistest_fence": "Boistest Fence",
+      "item.multicube.d_axe": "D Axe",
+      "block.multicube.boistest_log": "Boistest Log",
+      "item.multicube.d_dust": "D"
     }
   },
   "foldersRoot": {
