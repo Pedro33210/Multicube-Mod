@@ -1,0 +1,11 @@
+{
+  "crabe-rave": {
+    "subtitle": "subtitles.crabe-rave",
+    "sounds": [
+      {
+        "name": "multicube:y2mate.com-noisestorm-crab-rave-monstercat-release",
+        "stream": false
+      }
+    ]
+  }
+}

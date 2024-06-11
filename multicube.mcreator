@@ -3,6 +3,7 @@
     {
       "name": "Test",
       "type": "block",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "test",
@@ -15,15 +16,57 @@
           "src/main/resources/data/multicube/loot_tables/blocks/test.json"
         ]
       }
+    },
+    {
+      "name": "OngletTest",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "onglet_test",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Cdtest",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cdtest",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/models/item/cdtest.json",
+          "src/main/java/net/pedro/multicube/item/CdtestItem.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
-  "tag_elements": {},
+  "sound_elements": [
+    {
+      "name": "crabe-rave",
+      "files": [
+        "y2mate.com-noisestorm-crab-rave-monstercat-release"
+      ],
+      "category": "neutral",
+      "subtitle": "crabe rave"
+    }
+  ],
+  "tag_elements": {
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:Cdtest"
+    ]
+  },
   "language_map": {
     "en_us": {
+      "item.multicube.cdtest": "Cdtest",
+      "subtitles.crabe-rave": "crabe rave",
       "FRACAIS": "",
-      "block.multicube.test": "Test"
+      "block.multicube.test": "Test",
+      "item.multicube.cdtest.desc": "dd",
+      "item_group.multicube.onglet_test": "Test"
     }
   },
   "foldersRoot": {

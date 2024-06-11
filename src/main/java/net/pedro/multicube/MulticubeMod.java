@@ -3,6 +3,8 @@ package net.pedro.multicube;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
+import net.pedro.multicube.init.MulticubeModTabs;
+import net.pedro.multicube.init.MulticubeModSounds;
 import net.pedro.multicube.init.MulticubeModItems;
 import net.pedro.multicube.init.MulticubeModBlocks;
 
@@ -39,10 +41,12 @@ public class MulticubeMod {
 		// End of user code block mod constructor
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-
+		MulticubeModSounds.REGISTRY.register(bus);
 		MulticubeModBlocks.REGISTRY.register(bus);
 
 		MulticubeModItems.REGISTRY.register(bus);
+
+		MulticubeModTabs.REGISTRY.register(bus);
 
 		// Start of user code block mod init
 		// End of user code block mod init

@@ -1,0 +1,26 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Cdtest",
+    "rarity": "COMMON",
+    "texture": "cdftest",
+    "description": "dd",
+    "creativeTab": {
+      "value": "CUSTOM:OngletTest"
+    },
+    "specialInformation": {
+      "fixedValue": [
+        "ff"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:crabe-rave"
+    },
+    "lengthInTicks": 3820,
+    "analogOutput": 0
+  }
+}

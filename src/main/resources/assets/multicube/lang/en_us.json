@@ -1,4 +1,8 @@
 {
+  "item.multicube.cdtest": "Cdtest",
+  "subtitles.crabe-rave": "crabe rave",
   "FRACAIS": "",
-  "block.multicube.test": "Test"
+  "block.multicube.test": "Test",
+  "item.multicube.cdtest.desc": "dd",
+  "item_group.multicube.onglet_test": "Test"
 }

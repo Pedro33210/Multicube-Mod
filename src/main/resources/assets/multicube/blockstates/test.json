@@ -1,7 +1,19 @@
 {
   "variants": {
-    "": {
+    "facing=north": {
       "model": "multicube:block/test"
+    },
+    "facing=east": {
+      "model": "multicube:block/test",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "multicube:block/test",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "multicube:block/test",
+      "y": 270
     }
   }
 }

@@ -4,6 +4,7 @@
  */
 package net.pedro.multicube.init;
 
+import net.pedro.multicube.item.CdtestItem;
 import net.pedro.multicube.MulticubeMod;
 
 import net.minecraftforge.registries.RegistryObject;
@@ -17,6 +18,7 @@ import net.minecraft.world.item.BlockItem;
 public class MulticubeModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, MulticubeMod.MODID);
 	public static final RegistryObject<Item> TEST = block(MulticubeModBlocks.TEST);
+	public static final RegistryObject<Item> CDTEST = REGISTRY.register("cdtest", () -> new CdtestItem());
 
 	// Start of user code block custom items
 	// End of user code block custom items
