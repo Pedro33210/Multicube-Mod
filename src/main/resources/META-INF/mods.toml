@@ -8,7 +8,7 @@ version="1.0.0"
 displayName="Multicube"
 displayURL="https://mcreator.net"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
-authors="Pedro, MCreator"
+authors="Pedro, Xebec"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration
@@ -20,5 +20,29 @@ authors="Pedro, MCreator"
     ordering="NONE"
     side="BOTH"
 
+[[dependencies.multicube]]
+    modId="gekolib"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.multicube]]
+    modId="mcreator_link"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 
+[[dependencies.multicube]]
+    modId="gekolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 
+[[dependencies.multicube]]
+    modId="gekolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"

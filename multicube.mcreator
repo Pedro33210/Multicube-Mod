@@ -106,14 +106,21 @@
     "modid": "multicube",
     "modName": "Multicube",
     "version": "1.0.0",
-    "author": "Pedro, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "author": "Pedro, Xebec",
     "license": "Not specified",
     "serverSideOnly": false,
-    "requiredMods": [],
-    "dependencies": [],
-    "dependants": [],
-    "mcreatorDependencies": [],
+    "requiredMods": [
+      "gekolib"
+    ],
+    "dependencies": [
+      "gekolib"
+    ],
+    "dependants": [
+      "gekolib"
+    ],
+    "mcreatorDependencies": [
+      "mcreator_link"
+    ],
     "currentGenerator": "forge-1.20.1",
     "modElementsPackage": "net.pedro.multicube"
   },
