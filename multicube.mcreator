@@ -1,11 +1,29 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Test",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/multicube/models/item/test.json",
+          "src/main/java/net/pedro/multicube/block/TestBlock.java",
+          "src/main/resources/assets/multicube/models/block/test.json",
+          "src/main/resources/assets/multicube/blockstates/test.json",
+          "src/main/resources/data/multicube/loot_tables/blocks/test.json"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
   "language_map": {
     "en_us": {
-      "FRACAIS": ""
+      "FRACAIS": "",
+      "block.multicube.test": "Test"
     }
   },
   "foldersRoot": {

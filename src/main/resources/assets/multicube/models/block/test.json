@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "multicube:block/test",
+    "up": "multicube:block/test",
+    "north": "multicube:block/test",
+    "east": "multicube:block/test",
+    "south": "multicube:block/test",
+    "west": "multicube:block/test",
+    "particle": "multicube:block/test"
+  },
+  "render_type": "solid"
+}
